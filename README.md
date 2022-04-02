@@ -1,1 +1,3 @@
 # mailchecker
+
+Gotten from FreeCodeCamp
